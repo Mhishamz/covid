@@ -20,6 +20,7 @@ You can find this in Covid_Visualisations_Visualisations.ipynb
 # Dashboard
 There is a dashboard created using PowerBI using the processed data for interactive visualizations.
 
+![image](https://user-images.githubusercontent.com/106030701/222548645-4281cc0d-0053-461a-ab90-d3fa3558f653.png)
+
 # Details
 For more information you can read the description added. 
-
